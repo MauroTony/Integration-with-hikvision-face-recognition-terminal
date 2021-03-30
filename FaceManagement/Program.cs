@@ -1,7 +1,6 @@
 ﻿/*
  * CRIADO EM 8~9/2020
  * AUTOR MAURO TONY
- * EMPRESA WTECH
  */
 using System;
 using System.Threading;
