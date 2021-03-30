@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FaceManagement Language="English">
+    <Form>
+        <Name>FaceManagement</Name>
+        <Controls>
+          <Control name="btnLogin" text="Login"/>
+          <Control name="label1" text="Face Management"/>
+          <Control name="label2" text="Card No"/>
+          <Control name="label6" text="Set/Get/Delete Face Need"/>
+          <Control name="label7" text="FilePath"/>
+          <Control name="label8" text="Card Reader No"/>
+          <Control name="btnCapture" text="Capture"/>
+          <Control name="btnBrowse" text="Browse"/>
+          <Control name="label3" text="Before set face to device,you should "/>
+          <Control name="label4" text="capture or browse a face picture."/>
+          <Control name="label5" text="But Remember,the face picture should less than 200k!"/>
+          <Control name="btnSet" text="Set"/>
+          <Control name="btnGet" text="Get"/>
+          <Control name="btnDel" text="Delete"/>
+          <Control name="label10" text="Set Face To Device"/>
+          <Control name="label11" text="Get Device Face"/>
+          <Control name="label12" text="Delete Device Face"/>
+          <Control name="btnClear" text="Clear"/>
+        </Controls>
+    </Form>
+    <Form>
+        <Name>AddDev</Name>
+        <Controls>
+          <Control name="label1" text="Login Device"/>
+          <Control name="label2" text="Device Address"/>
+          <Control name="label4" text="User Name"/>
+          <Control name="label3" text="Port"/>
+          <Control name="label5" text="Password"/>
+          <Control name="button1" text="Add"/>
+          <Control name="button2" text="Cancel"/>
+        </Controls>
+    </Form>
+</FaceManagement>

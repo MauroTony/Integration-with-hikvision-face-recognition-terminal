@@ -1,0 +1,102 @@
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\obj\x86\Debug\FaceManagement.csprojAssemblyReference.cache
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\obj\x86\Debug\FaceManagement.FaceManagement.resources
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\obj\x86\Debug\FaceManagement.AddDev.resources
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\obj\x86\Debug\FaceManagement.Properties.Resources.resources
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\obj\x86\Debug\FaceManagement.csproj.GenerateResource.cache
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\obj\x86\Debug\FaceManagement.csproj.CoreCompileInputs.cache
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\bin\Mauro.exe.config
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\bin\Mauro.exe
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\bin\Mauro.pdb
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\bin\MySqlConnector.dll
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\bin\System.Buffers.dll
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\bin\System.Memory.dll
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\bin\System.Threading.Tasks.Extensions.dll
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\bin\MySqlConnector.xml
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\bin\System.Buffers.xml
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\bin\System.Memory.xml
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\bin\System.Threading.Tasks.Extensions.xml
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\obj\x86\Debug\FaceManagement.csproj.CopyComplete
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\obj\x86\Debug\Mauro.exe
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\obj\x86\Debug\Mauro.pdb
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\bin\Mauro.exe.manifest
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\bin\Mauro.application
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\obj\x86\Debug\Mauro.exe.manifest
+C:\Mauro\Projeto Gazeta\FaceManagement\FaceManagement\obj\x86\Debug\Mauro.application
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\bin\MySqlConnector.dll
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\bin\System.Buffers.dll
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\bin\System.Memory.dll
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\bin\System.Threading.Tasks.Extensions.dll
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\bin\MySqlConnector.xml
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\bin\System.Buffers.xml
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\bin\System.Memory.xml
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\bin\System.Threading.Tasks.Extensions.xml
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\obj\x86\Debug\FaceManagement.csprojAssemblyReference.cache
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\obj\x86\Debug\FaceManagement.FaceManagement.resources
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\obj\x86\Debug\FaceManagement.AddDev.resources
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\obj\x86\Debug\FaceManagement.Properties.Resources.resources
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\obj\x86\Debug\FaceManagement.csproj.GenerateResource.cache
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\obj\x86\Debug\FaceManagement.csproj.CoreCompileInputs.cache
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\obj\x86\Debug\FaceManagement.csproj.CopyComplete
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\bin\wtech_hik.exe.config
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\bin\wtech_hik.exe.manifest
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\bin\wtech_hik.application
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\bin\wtech_hik.exe
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\bin\wtech_hik.pdb
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\obj\x86\Debug\wtech_hik.exe.manifest
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\obj\x86\Debug\wtech_hik.application
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\obj\x86\Debug\wtech_hik.exe
+C:\Mauro\ProjetoGazeta\FaceManagement\FaceManagement\obj\x86\Debug\wtech_hik.pdb
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\bin\wtech_hik.exe.config
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\bin\wtech_hik.exe.manifest
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\bin\wtech_hik.application
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\bin\wtech_hik.exe
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\bin\wtech_hik.pdb
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\bin\MySqlConnector.dll
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\bin\System.Buffers.dll
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\bin\System.Memory.dll
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\bin\System.Threading.Tasks.Extensions.dll
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\bin\MySqlConnector.xml
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\bin\System.Buffers.xml
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\bin\System.Memory.xml
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\bin\System.Threading.Tasks.Extensions.xml
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\obj\x86\Debug\FaceManagement.csprojAssemblyReference.cache
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\obj\x86\Debug\FaceManagement.FaceManagement.resources
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\obj\x86\Debug\FaceManagement.AddDev.resources
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\obj\x86\Debug\FaceManagement.Properties.Resources.resources
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\obj\x86\Debug\FaceManagement.csproj.GenerateResource.cache
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\obj\x86\Debug\FaceManagement.csproj.CoreCompileInputs.cache
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\obj\x86\Debug\wtech_hik.exe.manifest
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\obj\x86\Debug\wtech_hik.application
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\obj\x86\Debug\FaceManagement.csproj.CopyComplete
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\obj\x86\Debug\wtech_hik.exe
+C:\Mauro\ProjetoGazeta\Functions\FaceManagement\obj\x86\Debug\wtech_hik.pdb
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\bin\MySqlConnector.dll
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\bin\System.Buffers.dll
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\bin\System.Memory.dll
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\bin\System.Threading.Tasks.Extensions.dll
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\bin\MySqlConnector.xml
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\bin\System.Buffers.xml
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\bin\System.Memory.xml
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\bin\System.Threading.Tasks.Extensions.xml
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\obj\x86\Debug\FaceManagement.csprojAssemblyReference.cache
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\obj\x86\Debug\FaceManagement.csproj.GenerateResource.cache
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\obj\x86\Debug\FaceManagement.csproj.CoreCompileInputs.cache
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\obj\x86\Debug\FaceManagement.csproj.CopyComplete
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\bin\hikvision_integration.exe.config
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\bin\hikvision_integration.exe.manifest
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\bin\hikvision_integration.application
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\bin\hikvision_integration.exe
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\bin\hikvision_integration.pdb
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\obj\x86\Debug\hikvision_integration.exe.manifest
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\obj\x86\Debug\hikvision_integration.application
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\obj\x86\Debug\hikvision_integration.exe
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\obj\x86\Debug\hikvision_integration.pdb
+C:\Mauro\IntegracaoHikvision\Functions\FaceManagement\obj\x86\Debug\FaceManagement.Properties.Resources.resources

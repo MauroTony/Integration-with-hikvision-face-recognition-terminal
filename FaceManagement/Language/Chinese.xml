@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FaceManagement Language="Chinese">
+  <Form>
+    <Name>FaceManagement</Name>
+    <Controls>
+      <Control name="btnLogin" text="登录"/>
+      <Control name="label1" text="人脸管理"/>
+      <Control name="label2" text="卡号"/>
+      <Control name="label6" text="下发/获取/删除人脸需要"/>
+      <Control name="label7" text="人脸文件路径"/>
+      <Control name="label8" text="读卡器编号"/>
+      <Control name="btnCapture" text="采集"/>
+      <Control name="btnBrowse" text="选择"/>
+      <Control name="label3" text="在下发人脸到设备之前 "/>
+      <Control name="label4" text="你需要选择一张图片"/>
+      <Control name="label5" text="大小不能超过200k"/>
+      <Control name="btnSet" text="下发"/>
+      <Control name="btnGet" text="获取"/>
+      <Control name="btnDel" text="删除"/>
+      <Control name="label10" text="下发人脸到设备"/>
+      <Control name="label11" text="获取设备上的人脸"/>
+      <Control name="label12" text="删除设备上的人脸"/>
+      <Control name="btnClear" text="清除"/>
+    </Controls>
+  </Form>
+  <Form>
+    <Name>AddDev</Name>
+    <Controls>
+      <Control name="label1" text="登录设备"/>
+      <Control name="label2" text="IP地址"/>
+      <Control name="label4" text="用户名"/>
+      <Control name="label3" text="端口号"/>
+      <Control name="label5" text="密码"/>
+      <Control name="button1" text="登录"/>
+      <Control name="button2" text="取消"/>
+    </Controls>
+  </Form>
+</FaceManagement>
